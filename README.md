@@ -1,1 +1,1 @@
-# dio-community-week-ai
+# Lanflow agent for analyzing online resume profiles
